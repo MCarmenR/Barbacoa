@@ -1,0 +1,21 @@
+?Lista de comida
+===============
+
+# Ordenada por orden alfabético en cada apartado
+
+Aperitivos
+----------
+
+Aceitunas
+
+
+Platos principales
+------------------
+
+Lomo de cerdo
+
+
+Postres
+-------
+
+Tarta de queso
